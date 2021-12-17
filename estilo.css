@@ -1,0 +1,13 @@
+body{
+    width: 100%;
+    overflow: visible;
+    background-color:white !important;
+    color: black !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Playfair Display", "Georgia", "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
+    color: rgb(56, 56, 56);   
+}
+
+
